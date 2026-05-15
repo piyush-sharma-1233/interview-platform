@@ -1,0 +1,7 @@
+export const TOTAL_QUESTIONS = 10;
+export const QUESTION_TIMER_SECONDS = 120;
+export const CODING_TIMER_SECONDS = 300;
+export const AUTOSAVE_INTERVAL_MS = 30_000;
+export const FOCUS_WARNING_DEBOUNCE_MS = 2000;
+export const TYPEWRITER_SPEED_MS = 28;
+export const MOCK_RUN_DELAY_MS = 800;
